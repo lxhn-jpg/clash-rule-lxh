@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,fimfiction.com
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD,
+DOMAIN-KEYWORD,derpicdn.net
 
 # IP段匹配
 IP-CIDR,173.254.217.214/32,no-resolve
